@@ -1,0 +1,23 @@
+.text {
+    color: #00008B;
+    background-color: #d0e8e1;
+    padding: 10px;
+    font-size: 50px;
+    background: url('flower.jpg') 50% 50%;
+}
+.flower-img {
+    width: 200px;
+    height: 200px;
+}
+.background_container {
+    color: aqua;
+    background-color: red;
+    font-size: 30px;
+}
+
+.data-container {
+    color: yellow;
+}
+.background_data {
+    color: #00008B;
+}
