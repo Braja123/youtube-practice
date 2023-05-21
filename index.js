@@ -100,6 +100,10 @@ return new Promise((resolve, reject) => {
   .then((result) => {})
   .catch((err) => {});
 
-const { second } = first;
+const { second } = second;
 
 // find duplicant element in an array in javascript use best optimize solution
+
+array.forEach((currentItem) => {
+  console.log(object);
+});
