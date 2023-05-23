@@ -38,3 +38,11 @@ console.log(result);
 // console.log(text);
 
 // hello world from the console example above is equivalent to the following example from the console example above with the same result as replace
+
+document.querySelector("#example").addEventListener("click", () => {
+  console.log(
+    text.replace("dog", (match) => {
+      return a.toUpperCase();
+    })
+  );
+});
